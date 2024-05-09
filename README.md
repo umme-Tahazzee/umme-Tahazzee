@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/564x/2c/88/fb/2c88fb4b14f508c2f6a95386d54ed99b.jpg)]
+![MasterHead](https://i.pinimg.com/564x/2c/88/fb/2c88fb4b14f508c2f6a95386d54ed99b.jpg)
 <h1 align="center">Hi 👋, I'm Umme Tahazzee Karia</h1>
 <h3 align="center">Hey!! I am Umme Tahazzee, I am Student at 📍 PCIU 🏫 pursuing Computer Science Engineering 🔌. I enjoy reading books 📚 and solving problems 📝 using Computer Science 💻.</h3>
 <br/>
