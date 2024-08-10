@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Umme Tahazzee Karia</h1>
 <h3 align="center">Hey!! I am Umme Tahazzee, I am Student at 📍 PCIU 🏫 pursuing Computer Science Engineering 🔌. I enjoy reading books 📚 and solving problems 📝 using Computer Science 💻.</h3>
 <br/>
- <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76110cf1d4f5e5f707c09cbdc03a4f1f638715d4be92&rid=giphy.gif&ct=s"/> 
+ <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qngLUj3JJf7NaMoe6nFVvA.gif"/> 
  <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umme-tahazzee&label=Profile%20views&color=0e75b6&style=flat" alt="umme-tahazzee" /> </p>
