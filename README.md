@@ -1,8 +1,8 @@
-![MasterHead](https://i.pinimg.com/564x/2c/88/fb/2c88fb4b14f508c2f6a95386d54ed99b.jpg)
+![MasterHead](https://user-images.githubusercontent.com/5330387/183502751-f29645f1-ccb4-408b-be1d-c6ef31649345.png)
 <h1 align="center">Hi 👋, I'm Umme Tahazzee Karia</h1>
 <h3 align="center">Hey!! I am Umme Tahazzee, I am Student at 📍 PCIU 🏫 pursuing Computer Science Engineering 🔌. I enjoy reading books 📚 and solving problems 📝 using Computer Science 💻.</h3>
 <br/>
- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/17/28/5f/17285fc448d970cdd53b1b3ba11d7e66.gif"/> 
+ <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*mB6YLIGqIk1hTzU6Fb12zQ.gif"/> 
  <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umme-tahazzee&label=Profile%20views&color=0e75b6&style=flat" alt="umme-tahazzee" /> </p>
