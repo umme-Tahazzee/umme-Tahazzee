@@ -102,3 +102,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umme-tahazzee&" alt="umme-tahazzee" />
 </p>
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
