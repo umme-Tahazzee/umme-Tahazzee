@@ -80,7 +80,7 @@
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/umme-tahazzee-karia-568b1520a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Umme Tahazzee's LinkedIn" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/ummetahazzeekaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Umme Tahazzee's Kaggle" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/cse24day262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Umme Tahazzee's Kaggle" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ummetahazzeekaria/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Umme Tahazzee's Instagram" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tahazzeekaria1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Umme Tahazzee's Codeforces" height="30" width="40" /></a>
 <a href="https://leetcode.com/tahazzeekaria1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Umme Tahazzee's LeetCode" height="30" width="40" /></a>
