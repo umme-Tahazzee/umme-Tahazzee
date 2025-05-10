@@ -1,107 +1,78 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+Welcome+To+My+GitHub!;I'm+Umme+Tahazzee!;Check+Out+My+Repositories!;Hope+You+Enjoy!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Typing SVG">
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umme-tahazzee&label=Profile%20views&color=0e75b6&style=flat" alt="Umme Tahazzee Profile Views" />
-</p>
-
-<h3 align="center" font-size='25px'>My Favorite Tools and Technologies</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=umme-tahazzee" alt="Umme Tahazzee's Trophies" />
-  </a>
-</p>
-
-🌱 **Currently Learning**:
-- Next.js
-- Node.js
-- Express.js
-- Problem Solving
-- Linux
-
-💬 **Ask Me About**:
-- MERN Stack
-- JavaScript
-
-📫 **How to Reach Me**:
-- Email: [tahazzeeKaria1@gmail.com](mailto:tahazzeeKaria1@gmail.com)
-
-⚡ **Fun Fact**:
-- I am often sleepy!
-
-## Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/umme-tahazzee-karia-568b1520a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Umme Tahazzee's LinkedIn" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/cse24day262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Umme Tahazzee's Kaggle" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ummetahazzeekaria/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Umme Tahazzee's Instagram" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tahazzeekaria1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Umme Tahazzee's Codeforces" height="30" width="40" /></a>
-<a href="https://leetcode.com/tahazzeekaria1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Umme Tahazzee's LeetCode" height="30" width="40" /></a>
-<a href="https://discord.com/users/tahazzee#6869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Umme Tahazzee's Discord" height="30" width="40" /></a>
-</p>
-
-
-
-## GitHub Stats:
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umme-tahazzee&show_icons=true&locale=en&layout=compact" alt="umme-tahazzee" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=umme-tahazzee&show_icons=true&locale=en" alt="umme-tahazzee" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umme-tahazzee&" alt="umme-tahazzee" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F78DA7&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+%F0%9F%99%8F;I'm+Umme+Tahazzee!;MERN+Stack+Lover+%F0%9F%92%BB;Frontend+Craftswoman+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Always+Building+%F0%9F%9A%80+Always+Learning!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=umme-tahazzee&label=✨+Profile+views&color=9f4bad&style=plastic" alt="Profile views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/umme-tahazzee/umme-tahazzee/assets/your-custom-sparkle.gif" width="80px"/>
+</p>
+
+<h2 align="center">
+  🛠️✨ <span style="color:#f78da7;">My Tech Toolbox</span> ✨🛠️
+</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,tailwind,js,react,nextjs&theme=light" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/UI-DaisyUI-%23a855f7?style=for-the-badge&logo=daisyui&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/denvercoder1/github-readme-streak-stats/master/demo/profile-tech-stack.gif" width="60%" />
+</p>
+
+---
+
+<h2 align="center">📬 Let's Connect</h2>
+
+<p align="center">
+  <a href="mailto:tahazzeeKaria1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="www.linkedin.com/in/tahazzee-karia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/tahazzeekaria1"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/tahazzeekaria1"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+  <a href="https://www.instagram.com/_canvas.4o4/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umme-tahazzee&theme=gruvbox&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Insights</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umme-tahazzee&show_icons=true&theme=cobalt&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=umme-tahazzee&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umme-tahazzee&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<h2 align="center">🎨 Fun Fact</h2>
+<p align="center">
+I may be sleepy... 😴 but when it comes to building UIs, I’m wide awake 🌙✨
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
