@@ -28,26 +28,21 @@ I'm a software engineer who enjoys building clean, functional web applications �
 
 | Layer | Technologies |
 |---|---|
-| **Frontend** | React.js · Next.js · TypeScript · Tailwind CSS |
+| **Frontend** | Javascript, React.js · Next.js · TypeScript · Tailwind CSS |
+| **Animation** | GSAP · Framer, Three.js |
 | **Backend** | Node.js · REST APIs |
 | **Database** | PostgreSQL · SQL · Prisma ORM |
 | **Tools** | Git · Firebase · Figma |
 
 <br />
 
-**A few things I've built**
-
-- 🚗 **Ride-Sharing App** — Uber-type app with real-time map using React + Leaflet, centered on Dhaka
-- 💼 **RemoteRecruit** — Job recruitment platform UI built from Figma specs with Next.js & Tailwind
-- 🌐 **Byte Hexa Website** — Software company site with glassmorphism design (Next.js + TypeScript)
-- 🎓 **Student Portal** — Academic portal with admit card download, built in Next.js
 
 <br />
 
 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umme-tahazzee&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="48%" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=umme-tahazzee&theme=github-dark-blue&hide_border=true" width="48%" />
 </p>
 
