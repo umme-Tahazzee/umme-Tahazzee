@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0EA5E9&height=220&section=header&text=Umme%20Tahazzee&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Frontend%20%26%20Full%20Stack%20%C2%B7%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Tahazzee&textBg=false&fontColor=white"/>
 
 <br/>
 
