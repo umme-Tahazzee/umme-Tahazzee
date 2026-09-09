@@ -65,7 +65,7 @@ I'm a full-stack developer who builds clean, production-ready web applications â
 
 <br/>
 
-## ðŸš€ Featured Projects
+
 
 <!-- <table>
 <tr>
