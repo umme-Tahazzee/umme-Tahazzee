@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Tahazzee&textBg=false&fontColor=white"/>
-
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:0F172A,50:6D28D9,100:0EA5E9&text=Umme%20Tahazzee&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Frontend%20%26%20Full%20Stack%20%C2%B7%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descAlign=50&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 <br/>
 
 <a href="https://www.linkedin.com/in/tahazzee-karia">
