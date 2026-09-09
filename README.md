@@ -67,7 +67,7 @@ I'm a full-stack developer who builds clean, production-ready web applications â
 
 ## ðŸš€ Featured Projects
 
-<table>
+<!-- <table>
 <tr>
 <td width="50%" valign="top">
 
@@ -104,7 +104,7 @@ Global job board frontend built with React and Tailwind CSS, focused on clean, d
 
 </td>
 </tr>
-</table>
+</table> -->
 
 <br/>
 
