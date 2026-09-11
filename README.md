@@ -31,7 +31,7 @@ I'm **Umme Tahazzee Karia**, a Frontend Developer based in Chattogram, Banglades
 
 - 🔭 Currently working as a **Jr. Frontend Developer at Software Chamber**, Dhaka
 - 🎓 BSc in Computer Science & Engineering, Port City International University (CGPA 3.79/4.00)
-- 📝 Co-author, IEEE Xplore (ICCIT) research paper on deep learning & explainable AI for monkeypox detection
+- 📝 Author, IEEE Xplore (ICCIT) research paper on deep learning & explainable AI for monkeypox detection
 - 🌱 Learning layered backend architecture: interface → validation → service → controller → route
 - 💬 Ask me about **React.js**, **Next.js**, **Node.js**, **Express**, **PostgreSQL**, **Prisma ORM**, JWT authentication, or Stripe integration
 
