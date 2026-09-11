@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:0F172A,50:6D28D9,100:0EA5E9&text=Umme+Tahazzee&fontColor=ffffff&fontSize=60&textBg=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:0F172A,50:6D28D9,100:0EA5E9&text=Umme+Tahazzee&fontFamily=Righteous&fontColor=ffffff&fontSize=45&textBg=false" width="100%"/>
 
 <a href="https://www.linkedin.com/in/tahazzee-karia">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,7 +18,7 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+clean%2C+scalable+web+apps;React+%2F+Next.js+%2F+Node.js+%2F+PostgreSQL;JWT+Auth+%C2%B7+RBAC+%C2%B7+Stripe+%C2%B7+Prisma+ORM;Always+building%2C+always+learning.&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=1000&color=0EA5E9&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer+%7C+React+%26+Next.js;Full-Stack+Web+Developer+%28PERN+Stack%29;Building+REST+APIs+with+Node.js+%26+PostgreSQL;Always+learning%2C+always+building.&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=1000&color=0EA5E9&vCenter=true&size=22" />
 </a>
 
 </div>
@@ -27,17 +27,19 @@
 
 ## 👩‍💻 About Me
 
-I'm a full-stack developer who builds clean, production-ready web applications — from responsive, animated UIs to reliable, scalable backends. I care about code quality, real-world architecture, and writing systems that still make sense six months later.
+I'm **Umme Tahazzee Karia**, a Frontend Developer based in Chattogram, Bangladesh, working toward becoming a full-stack developer with the **PERN stack** (PostgreSQL, Express, React, Node.js). I build responsive, animated web interfaces and clean, scalable backend systems — and care about writing code that still makes sense six months later.
 
 - 🔭 Currently working as a **Jr. Frontend Developer at Software Chamber**, Dhaka
 - 🎓 BSc in Computer Science & Engineering, Port City International University (CGPA 3.79/4.00)
-- 📝 Co-author, IEEE Xplore (ICCIT) paper on deep learning & explainable AI for monkeypox detection
-- 🌱 Building full-stack projects with layered architecture: interface → validation → service → controller → route
-- 💬 Ask me about React/Next.js, Node.js/Express, Prisma, PostgreSQL, JWT auth & RBAC, or Stripe integrations
+- 📝 Co-author, IEEE Xplore (ICCIT) research paper on deep learning & explainable AI for monkeypox detection
+- 🌱 Learning layered backend architecture: interface → validation → service → controller → route
+- 💬 Ask me about **React.js**, **Next.js**, **Node.js**, **Express**, **PostgreSQL**, **Prisma ORM**, JWT authentication, or Stripe integration
 
 <br/>
 
 ## 🛠️ Tech Stack
+
+Technologies I use to build full-stack web applications:
 
 <div align="center">
 
@@ -53,19 +55,23 @@ I'm a full-stack developer who builds clean, production-ready web applications �
 
 **Backend & Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,redis" />
+
+**Payments**
+<br/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="28"/>
 
 **Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,firebase,figma,postman" />
 
 </div>
-
 <br/>
 
+<!--
+## 📌 Featured Projects
 
-
-<!-- <table>
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -102,39 +108,17 @@ Global job board frontend built with React and Tailwind CSS, focused on clean, d
 
 </td>
 </tr>
-</table> -->
-
-<br/>
+</table>
+-->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=umme-tahazzee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=umme-tahazzee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=umme-tahazzee&theme=tokyonight&hide_border=true" width="48%" />
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umme-tahazzee&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umme-tahazzee&theme=tokyo-night&hide_border=true" width="90%" />
-
 </div>
 
 <br/>
 
-## 📫 Get In Touch
-
-<div align="center">
-
-📧 [tahazzeeKaria1@gmail.com](mailto:tahazzeeKaria1@gmail.com) &nbsp;·&nbsp;
-💼 [linkedin.com/in/tahazzee-karia](https://www.linkedin.com/in/tahazzee-karia) &nbsp;·&nbsp;
-💻 [LeetCode](https://leetcode.com/tahazzeekaria1)
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6D28D9&height=100&section=footer" width="100%"/>
-
-</div>
