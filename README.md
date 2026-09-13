@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:0F172A,50:6D28D9,100:0EA5E9&text=Umme+Tahazzee&fontFamily=Righteous&fontColor=ffffff&fontSize=45&textBg=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:0F172A,50:6D28D9,100:0EA5E9&text=Hi+I'm+Umme+Tahazzee&fontFamily=Righteous&fontColor=ffffff&fontSize=45&textBg=false" width="100%"/>
 
 <a href="https://www.linkedin.com/in/tahazzee-karia">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -68,55 +68,15 @@ Technologies I use to build full-stack web applications:
 </div>
 <br/>
 
-<!--
-## 📌 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 [RentNest](https://github.com/umme-tahazzee/rent-nest)
-Rental property marketplace REST API. Role-based access (Admin/Landlord/Tenant), Stripe payments with webhook handling, soft-delete filtering, and a full admin module, backed by a 22-step Postman testing guide.
-
-`Express` `TypeScript` `Prisma` `Stripe` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-
-### ✍️ Prisma Press
-Subscription blogging platform. Next.js 14 App Router frontend with a same-origin proxy for cookie auth, paired with a Prisma/PostgreSQL backend handling Stripe subscriptions and JWT auth.
-
-`Next.js` `Prisma` `Stripe` `PostgreSQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐛 DevPulse
-Issue-tracking backend built on raw PostgreSQL queries with JWT authentication, custom RBAC middleware, and standardized response utilities.
-
-`PostgreSQL` `JWT` `RBAC`
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 RemoteRecruit
-Global job board frontend built with React and Tailwind CSS, focused on clean, data-driven UI components.
-
-`React` `Tailwind CSS`
-
-</td>
-</tr>
-</table>
--->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=umme-tahazzee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=umme-tahazzee&theme=tokyonight&hide_border=true" width="48%" />
+
+
 
 </div>
 
