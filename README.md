@@ -23,8 +23,8 @@ Frontend developer in Chattogram, Bangladesh, growing into full-stack with the P
 
 ### Selected work
 
-- [**ByteHexa**](https://github.com/umme-tahazzee) – company website, Next.js with a custom design system
-- [**RentNest**](https://github.com/umme-tahazzee) – full-stack rental platform
+- [**ByteHexa**]([https://github.com/umme-tahazzee](https://byte-hexa.vercel.app/) – company website, Next.js with a custom design system
+- [**To-let**](https://to-let-iota.vercel.app/) – full-stack rental platform
 - [**Roadside Assistance API**](https://github.com/umme-tahazzee) – Express, Prisma, PostgreSQL, Socket.io
 
 ### Research
