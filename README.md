@@ -33,14 +33,14 @@ First-author, IEEE Xplore (ICCIT): [deep learning and explainable AI for monkeyp
 
 ---
 <table>
-  <tr>
+  <!-- <tr>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umme-Tahazzee&theme=github_dark" height="180"/>
     </td>
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umme-Tahazzee&theme=github_dark" height="180"/>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td colspan="2">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umme-Tahazzee&theme=github_dark" width="100%"/>
@@ -48,7 +48,7 @@ First-author, IEEE Xplore (ICCIT): [deep learning and explainable AI for monkeyp
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umme-Tahazzee&theme=github_dark&utcOffset=6" height="180"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umme-Tahazzee&theme=github_dark" height="180"/>
     </td>
     <td>
        <!-- <img src="https://streak-stats.demolab.com?user=umme-Tahazzee&theme=dark&background=0d1117&border=58a6ff" height="180"/>  -->
